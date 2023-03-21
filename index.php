@@ -10,6 +10,9 @@
             <h1>Youtube Clone</h1>
         </div>
         <div id="sideNavContainer">
+            <a href="#">Home</a>
+            <a href="#">Shorts</a>
+            <a href="#">Subscriptions</a>
         </div>
         <div id="mainSectionContainer">
         </div>
